@@ -1,0 +1,29 @@
+.nav {
+    text-align: center;
+    background-color: lightslategray;
+    color: white;
+};
+
+.find {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex-direction: column;
+    border: solid;
+};
+
+.day {
+    display: flex;
+    flex: auto;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    margin: 4px;
+    border: solid;
+}
+
+.m2f {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
